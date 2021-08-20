@@ -1,0 +1,4 @@
+
+.digits__table { /* Микс для центрирования блока table в блоке digits */
+  margin: 0 auto;
+}
