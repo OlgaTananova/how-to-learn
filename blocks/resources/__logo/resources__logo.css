@@ -4,4 +4,10 @@
   height: 38px;
   object-fit: contain;
   object-position: center;
+  transition: opacity 3s;
+  list-style: none;
+}
+
+.resources__logo:hover {
+  opacity: .2;
 }
