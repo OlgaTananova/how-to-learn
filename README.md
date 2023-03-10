@@ -1,22 +1,18 @@
-"Научиться учиться" 
+"Learning how to Learn"
 
-Это одностраничный сайт - учебный проект, выполненный в рамках обучения на курсе веб-разработки школы Яндекс.Практикум.
+This is a one-page website pet-project completed as part of the web development course at Practicum.
 
-Цель проекта - применить и отработать навыки верстки веб-страниц с использованием HTML и CSS. 
+The project's goal is to apply and practice the skills of web page layout using HTML and CSS.
 
-Использованы следующие технологии:
-1. HTML - сделана разметка страницы, в том числе с применением семантических тегов.
-2. CSS - cделано визуальное оформление контента страницы, в том числе с применением следующих инструментов:
-2.1.  Разнообразные свойства позиционирования блоков, элементов;
+The following technologies were used:
+
+HTML - page markup was created, including the use of semantic tags.
+CSS - the visual design of the page content was created, including the use of the following tools:
+2.1. Various properties for positioning blocks and elements;
 2.2. Flexbox;
-2.3. Встроенные медиа-файлы (iframe'ы);
-2.4. Базовые трансформации и анимация; 
-3. Файловая структура проекта оформлена по технологии БЭМ, что позволяет безболезненно использовать блоки в других проектах. 
+2.3. Embedded media files (iframes);
+2.4. Basic transformations and animation.
+The project's file structure is organized using the BEM technology, which allows for the painless use of blocks in other projects.
 
-Планы по доработке проекта (используя только возможности CSS):
 
-1/  Дополнить страницу формой обратной связи. 
-2/  Добавить видео и сделать небольшую анимацию со сменой роликов типа "карусель" (хотя это и не просто, но можно попробовать, на CSS-tricks есть статьи на этот счет). 
-
-Спасибо за внимание!
-Ольга Тананова
+Olga Tananova
