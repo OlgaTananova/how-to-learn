@@ -14,5 +14,6 @@ CSS - the visual design of the page content was created, including the use of th
 2.4. Basic transformations and animation.
 The project's file structure is organized using the BEM technology, which allows for the painless use of blocks in other projects.
 
+GitHubPages: [How to Learn]:(https://olgatananova.github.io/how-to-learn/index.html)
 
 Olga Tananova
